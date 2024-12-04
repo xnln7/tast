@@ -86,7 +86,7 @@ func main() {
 	}
 
 	// Target URL
-	targetURL := "http://yourwebsite.com"
+	targetURL := "http://sizishop.com"
 
 	// Create channels and worker pool
 	proxyChan := make(chan string, len(proxies))
